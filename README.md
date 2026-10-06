@@ -1,0 +1,2 @@
+# -UI-Act-13-Detecci-n-de-bordes-y-contornos-para-Visi-n-Artificial---0200
+trabajo VS
